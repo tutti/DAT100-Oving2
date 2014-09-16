@@ -1,5 +1,13 @@
 import easyIO.*;
 
+/**
+ * Besvarelse på oppgave 5
+ * Leser inn 7 temperaturer fra brukeren, og regner ut høyeste temperatur og
+ * gjennomsnittstemperatur. Begge skrives ut.
+ * 
+ * @author Pål V. Gjerde
+ *
+ */
 public class Oppgave5 {
     private static In in = new In();
     private static Out out = new Out();

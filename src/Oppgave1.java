@@ -1,7 +1,7 @@
 import easyIO.*;
 
 /**
- * Løsning på Øving 3 oppgave 1
+ * Besvarelse på oppgave 1
  * 
  * @author Pål V. Gjerde
  *
